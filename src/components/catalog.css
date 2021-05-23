@@ -1,0 +1,77 @@
+.catalog-container{
+    display: grid;
+    grid-template-columns: repeat(3,250px);
+    grid-auto-rows: minmax(150px,auto);
+    grid-gap: 80px;
+    position: relative;
+    justify-content:space-evenly;
+    position: relative;
+    background-color: black;
+    
+
+}
+.h3_forest{
+    width: fit-content;
+    background-color: navy;
+    color: white;
+    margin: 20px;
+    position: absolute;
+    left: 10%;
+    padding: 4px;
+
+    
+}
+.h3_couple_tours{
+    width: fit-content;
+    background-color: navy;
+    color: white;
+    margin: 20px;
+    position: absolute;
+    left: 10%;
+    top:33%;
+    padding: 4px;
+    
+}
+.h3_museums{
+    width: fit-content;
+    background-color: navy;
+    color: white;
+    margin: 20px;
+    position: absolute;
+    left: 10%;
+    top:67%;
+    padding: 4px;
+    
+}
+.catalog-card{
+    margin-top: 80px;
+    margin-bottom: 30px;
+    width: 280px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px -5px;
+    transition: 0.5s;
+    animation: ease-in;
+}
+.catalog-card:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px 0px;
+}
+.catalog-card-content{
+    margin: 1rem;
+    margin-top: 0.5rem;
+    color: navy;
+}
+h3,p{
+    margin: 0;
+    padding: 0;
+}
+.catalog-card-title{
+    margin-bottom: 0.5rem;
+    color:mediumblue;
+}
+.catalog-card-image{
+    width: 300px;
+    overflow: hidden;
+    object-fit: contain;
+    height: 200px;
+}

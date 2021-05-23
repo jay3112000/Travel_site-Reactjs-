@@ -1,0 +1,191 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.services,
+.products,
+.sign-up {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.services {
+  background-image: url('/images/img-2.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+.amazon{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  
+}
+.amazon-container{
+    background-color: black;
+
+}
+.amazon-text{
+   color: #483D8B;
+   font-family: 'PT Sans', sans-serif;
+   background-size: auto;
+   font-size: 20px;
+   padding: 15px;
+    
+}
+.amazon-image-text{
+    color:white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ 
+}
+.bali{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  
+}
+.bali-container{
+    background-color: black;
+
+}
+.bali-text{
+   color: #483D8B;
+   font-family: 'PT Sans', sans-serif;
+   background-size: auto;
+   font-size: 20px;
+   padding: 15px;
+    
+}
+.bali-image-text{
+    color:white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ 
+}
+
+.sahara{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  
+}
+.sahara-container{
+    background-color: black;
+
+}
+.sahara-text{
+   color: #483D8B;
+   font-family: 'PT Sans', sans-serif;
+   background-size: auto;
+   font-size: 20px;
+   padding: 15px;
+    
+}
+.sahara-image-text{
+    color:white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ 
+}
+.mountain{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  
+}
+.mountain-container{
+    background-color: black;
+
+}
+.mountain-text{
+   color: #483D8B;
+   font-family: 'PT Sans', sans-serif;
+   background-size: auto;
+   font-size: 20px;
+   padding: 15px;
+    
+}
+.mountain-image-text{
+    color:white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ 
+}
+
+.atlantic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  
+}
+.atlantic-container{
+    background-color: black;
+
+}
+.atlantic-text{
+   color: #483D8B;
+   font-family: 'PT Sans', sans-serif;
+   background-size: auto;
+   font-size: 20px;
+   padding: 15px;
+    
+}
+.atlantic-image-text{
+    color:white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ 
+}
+
+.products {
+  background-image: url('/images/img-1.jpg');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.sign-up {
+  background-image: url('/images/img-8.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
