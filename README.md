@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 First Reactjs project
 its a travel-tours website made with help of diiferent styling techniques styled components,css just a testing project
 
-URL-dazzling-noyce-626dc5
+URL-https://relaxed-visvesvaraya-22dec2.netlify.app
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/61292543/119274818-b2a4de00-bbc6-11eb-883e-c324517ce981.png)
 ![Screenshot (49)](https://user-images.githubusercontent.com/61292543/119274822-b6d0fb80-bbc6-11eb-8f32-128d0e3d1ebb.png)
